@@ -7,7 +7,7 @@ const login = () => {
         <div className="">
           <h1 className="bg-rose-800 text-3xl text-center text-white pt-7 pb-4 font-semibold underline underline-offset-4">
             User Login
-          </h1>
+          </h1>   
           <div className="h-[20rem] flex pt-10 justify-center">
             <form className="flex flex-col items-center gap-5">
               <div className="flex flex-col gap-2 ">
